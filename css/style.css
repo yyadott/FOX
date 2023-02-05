@@ -417,7 +417,12 @@ body {
   font-size: 24pt;
   color: #0c0116;
 }
-
+.seri_text {
+  width: 100%;
+  float: left;
+  font-size: 24pt;
+  color: #0c0116;
+}
 .consectetur_text {
   width: 100%;
   float: left;
@@ -454,7 +459,7 @@ body {
   margin-left: -60px;
 }
 .blue_bt {
-  width: 26%;
+  width: 35%;
   float: left;
   background-color: #006eff;
   font-size: 14pt;
@@ -464,7 +469,7 @@ body {
   margin-left: -60px;
 }
 .black_bt {
-  width: 26%;
+  width: 35%;
   float: left;
   background-color: black;
   font-size: 14pt;
@@ -560,6 +565,16 @@ body {
   color: #ffffff;
   font-size: 16pt;
   margin-top: 35px;
+  margin-bottom: 90px;
+}
+.seemore2_bt {
+  width: 20%;
+  height: 50px;
+  color: #ffffff;
+  background-color: #006eff;
+  color: #ffffff;
+  font-size: 16pt;
+  margin-top: 25px;
   margin-bottom: 90px;
 }
 
