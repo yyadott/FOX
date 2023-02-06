@@ -215,8 +215,8 @@
   .star_icon {
     width: 30%;
   }
-  .footer-logo {
-    font-size: 10pt;
+  .logo_ .footer-logo {
+    font-size: 1pt;
   }
   .map_text {
     padding-left: 9px;
@@ -607,7 +607,7 @@
     display: none;
   }
   .bg-light {
-    background-color: #5fa4ff !important;
+    background-color: transparent !important;
   }
   .header_section {
     background-size: cover;
